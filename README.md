@@ -28,6 +28,13 @@ Welcome to my corner of GitHub! ✨
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### I post on DEV
+
+Check out my posts on [DEV](https://dev.to/alisaduncan).
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 ### Let's keep in touch!
 
