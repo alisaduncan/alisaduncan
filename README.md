@@ -33,11 +33,11 @@ Welcome to my corner of GitHub! ✨
 Check out my posts on [DEV](https://dev.to/alisaduncan). 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Tidy up your tests using component test harnesses &lpar;2/3&rpar;](https://dev.to/alisaduncan/tidy-up-your-tests-using-component-test-harnesses-23-3od0)
 - [Tidy up your tests using component test harnesses &lpar;1/3&rpar;](https://dev.to/alisaduncan/tidy-up-your-tests-using-component-test-harnesses-13-359a)
 - [What You Need to Know about Angular v13](https://dev.to/oktadev/what-you-need-to-know-about-angular-v13-7fd)
 - [The Things to Keep in Mind about Auth](https://dev.to/alisaduncan/the-things-to-keep-in-mind-about-auth-25eg)
 - [Debugging and inspecting Angular apps using Angular DevTools](https://dev.to/alisaduncan/debugging-and-inspecting-angular-apps-using-angular-devtools-1e05)
-- [Organizing a ngGirls Event](https://dev.to/alisaduncan/organizing-a-nggirls-event-70o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
