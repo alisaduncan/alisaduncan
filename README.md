@@ -1,11 +1,12 @@
-![Alisa Duncan - Developer, community builder, relentless learner](assets/gh_header.gif)
+[![Alisa Duncan - Developer, community builder, relentless learner](assets/gh_header.gif)](https://alisaduncan.dev)
 
-### Hi there!
+### Hi there! 👋
 
 Welcome to my corner of GitHub! ✨
 
-![Alisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisaduncan&show_icons=true&theme=dracula)
+I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, and a community builder who loves the thrill of learning new things. 🤩
 
+![Alisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisaduncan&show_icons=true&theme=buefy)
 
 ---
 
@@ -30,7 +31,7 @@ Welcome to my corner of GitHub! ✨
 
 ### I post on DEV
 
-Check out my posts on [DEV](https://dev.to/alisaduncan). 📖
+Here's a few of my recent posts. Want to see more? Find me on [DEV](https://dev.to/alisaduncan). 📖
 
 <!-- BLOG-POST-LIST:START -->
 - [Loading Components Dynamically in an Angular App](https://dev.to/oktadev/loading-components-dynamically-in-an-angular-app-43aa)
