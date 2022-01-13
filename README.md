@@ -34,11 +34,11 @@ I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, and a comm
 Here's a few of my recent posts. Want to see more? Find me on [DEV](https://dev.to/alisaduncan). 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Azure Cognitive Services in a .NET App](https://dev.to/oktadev/using-azure-cognitive-services-in-a-net-app-1epm)
 - [Loading Components Dynamically in an Angular App](https://dev.to/oktadev/loading-components-dynamically-in-an-angular-app-43aa)
 - [Tidy up your tests using component test harnesses &lpar;3/3&rpar;](https://dev.to/alisaduncan/tidy-up-your-tests-using-component-test-harnesses-33-4j2m)
 - [Tidy up your tests using component test harnesses &lpar;2/3&rpar;](https://dev.to/alisaduncan/tidy-up-your-tests-using-component-test-harnesses-23-3od0)
 - [Tidy up your tests using component test harnesses &lpar;1/3&rpar;](https://dev.to/alisaduncan/tidy-up-your-tests-using-component-test-harnesses-13-359a)
-- [What You Need to Know about Angular v13](https://dev.to/oktadev/what-you-need-to-know-about-angular-v13-7fd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
