@@ -16,7 +16,7 @@ I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, and a comm
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### And I want to learn more about
 
@@ -29,7 +29,7 @@ I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, and a comm
 
 ---
 
-### I post on DEV
+### I post on DEV.to
 
 Here's a few of my recent posts. Want to see more? Find me on [DEV](https://dev.to/alisaduncan). 📖
 
@@ -42,6 +42,37 @@ Here's a few of my recent posts. Want to see more? Find me on [DEV](https://dev.
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+### Sometimes I speak too
+
+Check out my slides from some recent talks. 🗣
+
+<table>
+  <tr>
+   <td>
+     <a href="https://alisaduncan.github.io/component-harness/"><img src="https://raw.githubusercontent.com/alisaduncan/component-harness/main/img/cover.png" width="200px" /></a>
+   </td>
+   <td>
+     <a href="https://alisaduncan.github.io/component-harness/">Tidy Up Your Tests Using Component Harnesses</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+     <a href="https://speakerdeck.com/alisaduncan/github-profiles-lightning-talk"><img src="./assets/talks/gh-profiles-lightning.jpg" width="200px" /></a>
+   </td>
+   <td>
+     <a href="https://speakerdeck.com/alisaduncan/github-profiles-lightning-talk">GitHub Profiles Lightning Talk</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+     <a href="https://alisaduncan.github.io/angular-animations/"><img src="https://raw.githubusercontent.com/alisaduncan/angular-animations/master/img/cover.png" width="200px" /></a>
+   </td>
+   <td>
+     <a href="https://alisaduncan.github.io/angular-animations/">Digging In To Angular Animations</a>
+   </td>
+  </tr>
+</table>
 
 ### Let's keep in touch!
 
