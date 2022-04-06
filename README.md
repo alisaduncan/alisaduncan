@@ -34,11 +34,11 @@ I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, and a comm
 Here's a few of my recent posts. Want to see more? Find me on [DEV](https://dev.to/alisaduncan). 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Animating Your Angular App](https://dev.to/alisaduncan/animating-your-angular-app-598m)
 - [Working From Home in My Upgraded Remote Office](https://dev.to/alisaduncan/working-from-home-in-my-upgraded-remote-office-19a)
 - [Three Ways to Configure Modules in Your Angular App](https://dev.to/oktadev/three-ways-to-configure-modules-in-your-angular-app-26ag)
 - [Boost Your Productivity Using Okta CLI with Fig](https://dev.to/oktadev/boost-your-productivity-using-okta-cli-with-fig-25lb)
 - [Using Azure Cognitive Services in a .NET App](https://dev.to/oktadev/using-azure-cognitive-services-in-a-net-app-1epm)
-- [Loading Components Dynamically in an Angular App](https://dev.to/oktadev/loading-components-dynamically-in-an-angular-app-43aa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
