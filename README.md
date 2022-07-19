@@ -34,11 +34,11 @@ I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, and a comm
 Here's a few of my recent posts. Want to see more? Find me on [DEV](https://dev.to/alisaduncan). 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Defend Your SPA From Security Woes](https://dev.to/oktadev/defend-your-spa-from-security-woes-1fg2)
 - [Secure and Deploy Micro Frontends with Angular](https://dev.to/oktadev/secure-and-deploy-micro-frontends-with-angular-1b3p)
 - [How to Build Micro Frontends Using Module Federation in Angular](https://dev.to/oktadev/how-to-build-micro-frontends-using-module-federation-in-angular-4ib2)
 - [Animating Your Angular App](https://dev.to/alisaduncan/animating-your-angular-app-598m)
 - [Working From Home in My Upgraded Remote Office](https://dev.to/alisaduncan/working-from-home-in-my-upgraded-remote-office-19a)
-- [Three Ways to Configure Modules in Your Angular App](https://dev.to/oktadev/three-ways-to-configure-modules-in-your-angular-app-26ag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
