@@ -34,11 +34,11 @@ I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, and a comm
 Here's a few of my recent posts. Want to see more? Find me on [DEV](https://dev.to/alisaduncan). 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Guide to Providers in Angular](https://dev.to/angular/a-practical-guide-to-providers-in-angular-3c96)
 - [Protect Your Angular App From Cross-Site Scripting](https://dev.to/oktadev/protect-your-angular-app-from-cross-site-scripting-26d4)
 - [Protect Your Angular App From Cross-Site Request Forgery](https://dev.to/oktadev/protect-your-angular-app-from-cross-site-request-forgery-2hho)
 - [Defend Your SPA From Common Web Attacks](https://dev.to/oktadev/defend-your-spa-from-common-web-attacks-2ibo)
 - [Defend Your SPA From Security Woes](https://dev.to/oktadev/defend-your-spa-from-security-woes-1fg2)
-- [Secure and Deploy Micro Frontends with Angular](https://dev.to/oktadev/secure-and-deploy-micro-frontends-with-angular-1b3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
