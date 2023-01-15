@@ -49,6 +49,14 @@ Check out my slides from some recent talks. 🗣
 
 <table>
   <tr>
+    <td>
+     <a href="https://theressafetyinangular.alisaduncan.dev/"><img src="https://theressafetyinangular.alisaduncan.dev/assets/img/cover.jpg" width="200px" /></a>
+    </td>
+    <td>
+     <a href="https://theressafetyinangular.alisaduncan.dev/">There's Safety in Angular</a>
+    </td>
+  </tr>
+  <tr>
    <td>
      <a href="https://alisaduncan.github.io/component-harness/"><img src="https://raw.githubusercontent.com/alisaduncan/component-harness/main/img/cover.png" width="200px" /></a>
    </td>
