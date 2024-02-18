@@ -4,7 +4,7 @@
 
 Welcome to my corner of GitHub! ✨
 
-I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, and a community builder who loves the thrill of learning new things. 🤩
+I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, Pluralsight author, and a community builder who loves the thrill of learning new things. 🤩
 
 ![Alisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisaduncan&show_icons=true&theme=buefy)
 
