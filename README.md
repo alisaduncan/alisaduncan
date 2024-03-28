@@ -34,11 +34,11 @@ I'm a Senior Developer Advocate 🥑 at Okta, a full-stack developer, Pluralsigh
 Here's a few of my recent posts. Want to see more? Find me on [DEV](https://dev.to/alisaduncan). 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Add Step-up Authentication Using Angular and NestJS](https://dev.to/oktadev/add-step-up-authentication-using-angular-and-nestjs-1apn)
 - [Flexible Authentication Configurations in Angular Applications Using Okta](https://dev.to/oktadev/flexible-authentication-configurations-in-angular-applications-using-okta-5c7e)
 - [How Authentication and Authorization Work for SPAs](https://dev.to/oktadev/how-authentication-and-authorization-work-for-spas-1e4h)
 - [A Practical Guide to Providers in Angular](https://dev.to/angular/a-practical-guide-to-providers-in-angular-3c96)
 - [Protect Your Angular App From Cross-Site Scripting](https://dev.to/oktadev/protect-your-angular-app-from-cross-site-scripting-26d4)
-- [Protect Your Angular App From Cross-Site Request Forgery](https://dev.to/oktadev/protect-your-angular-app-from-cross-site-request-forgery-2hho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
